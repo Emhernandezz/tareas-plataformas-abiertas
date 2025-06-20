@@ -1,3 +1,12 @@
 # Tareas Plataformas Abiertas
 
-*Nombre del estudiante:* Emily Hernández Brenes
+# Mi Biografia
+
+**Nombre del estudiante:** Emily Hernández Brenes
+**Edad:** 20
+**Carrera:** Ingeniería Informática
+
+# Hobbies
+-Crear Contenido para marcas
+-Hacer ejercicio
+-Ver tiktoks
